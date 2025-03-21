@@ -1,5 +1,7 @@
-const path = require("path");
+import path from 'path';
+import { fileURLToPath } from 'url';
 
-export const PATH_DB = path.resolve("src", "db", "db.json");
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-
+export const PATH_DB = path.join(__dirname, 'src', 'db', 'db.json');
