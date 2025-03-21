@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "343d95a6-bb1b-4e2c-9b12-643d446fc67d",
+    "name": "Marianne Douglas",
+    "phone": "650.224.1771",
+    "email": "Hildegard1@yahoo.com",
+    "job": "Principal Markets Planner"
+  },
+  {
+    "id": "b6947214-613a-4491-a967-24f1f4ea0922",
+    "name": "Bryan Carter",
+    "phone": "576-872-5592",
+    "email": "Yesenia67@gmail.com",
+    "job": "Investor Interactions Officer"
+  },
+  {
+    "id": "c2f6a87f-076c-4a54-806b-0a70fbe5f04f",
+    "name": "Jeffrey Dibbert",
+    "phone": "544.789.0576 x44735",
+    "email": "Billie88@gmail.com",
+    "job": "District Division Designer"
+  },
+  {
+    "id": "0a26c518-1c68-4e90-aca5-4fcc04890d3b",
+    "name": "Meredith Windler",
+    "phone": "773-755-6301 x648",
+    "email": "Heather.Conroy49@yahoo.com",
+    "job": "Corporate Division Producer"
+  },
+  {
+    "id": "f23884b4-c90e-45cc-92a9-3a72f604efd7",
+    "name": "Miss Julia Kshlerin",
+    "phone": "848.602.9394 x788",
+    "email": "Dennis22@yahoo.com",
+    "job": "Future Intranet Representative"
+  }
+]
